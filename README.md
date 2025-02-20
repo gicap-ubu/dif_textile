@@ -24,7 +24,7 @@ This repository is part of the Deep Learning for automatic tExtile iNspection (D
 1. **Cloner the repository**:
    ```bash
    git clone https://github.com/gicap-ubu/dif_textile.git
-   cd DECeNT-preprocessing
+   cd dif_textile
 
 2. **Install dependencies**:
    
