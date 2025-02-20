@@ -23,11 +23,13 @@ Este repositorio forma parte del proyecto **Deep Iearning for automatic tExtile 
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tunombreusuario/DECeNT-preprocessing.git
+   git clone https://github.com/gicap-ubu/DECeNT-preprocessing.git
    cd DECeNT-preprocessing
 
 2. **Instalar dependencias**:
+   
    Los paquetes de Python utilizados son:
+   
    * opencv-python
    * matplotlib
    * numpy
