@@ -43,6 +43,9 @@ This repository is part of the Deep Learning for automatic tExtile iNspection (D
    * scikit-image
    * pandas
    * imageio
+   * shutil
+   * glob
+   * os
      
 ## Dataset
   The dataset can be downloaded from this link: http://hdl.handle.net/10259/9965 
