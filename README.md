@@ -7,14 +7,20 @@ This repository is part of the Deep Learning for automatic tExtile iNspection (D
 - **notebooks/**  
   Contains Jupyter notebooks with the following steps:
   
-  - **Notebook 1: Conversión de Imágenes (16 bits a 8 bits)**  
+  - **Notebook 1: Conversiion directa 8bits.ipynb**  
    Converts the original 16-bit images to 8-bit, making them suitable for further processing.
     
-  - **Notebook 2: Renombrado de Imágenes**  
+  - **Notebook 2: Renombrar imagenes.ipynb**  
     Renames images located in the "20221124 SARGA 8 bits" directories, adjusting their names to follow the required standard format.
     
-  - **Notebook 3: Extracción de Subimágenes**  
+  - **Notebook 3: Extraer subimagenes.ipynb**  
     Extracts fixed-size sections (sub-images) from preprocessed images, facilitating detailed analysis of specific regions in both defective and non-defective areas.
+
+  - **Notebook 4: move_cases.ipynb**  
+    The code moves files from a source directory (search_folder) to a subfolder named 'cases' within the same directory. For each file listed in the patch_name column of the CSV file, it checks if the file exists in the source directory.
+
+  - **Notebook 5: Generar CSV a partir de carpetas controls y cases.ipynb**  
+    Generate a CSV file from the files contained in the 'controls' and 'cases' folders
   
 - **README.md**  
   This file describes the repository.
