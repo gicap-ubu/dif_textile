@@ -1,6 +1,6 @@
 # DECeNT - Preprocessing Notebooks
 
-Este repositorio forma parte del proyecto **Deep Iearning for automatic tExtile iNspection (DECeNT)**, orientado a la detección de defectos en telas mediante técnicas de Deep Learning. Aquí se encuentran los notebooks utilizados para el preprocesamiento de datos antes de su uso en modelos de aprendizaje profundo.
+This repository is part of the Deep Learning for automatic tExtile iNspection (DECeNT) project, which focuses on defect detection in fabrics using Deep Learning techniques. It contains the notebooks used for data preprocessing before their use in deep learning models.
 
 ## Contents
 
