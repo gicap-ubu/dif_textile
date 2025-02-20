@@ -2,33 +2,33 @@
 
 Este repositorio forma parte del proyecto **Deep Iearning for automatic tExtile iNspection (DECeNT)**, orientado a la detección de defectos en telas mediante técnicas de Deep Learning. Aquí se encuentran los notebooks utilizados para el preprocesamiento de datos antes de su uso en modelos de aprendizaje profundo.
 
-## Contenido
+## Contents
 
 - **notebooks/**  
-  Contiene los cuadernos de Jupyter con los siguientes pasos:
+  Contains Jupyter notebooks with the following steps:
   
   - **Notebook 1: Conversión de Imágenes (16 bits a 8 bits)**  
-    Convierte las imágenes originales de 16 bits a 8 bits, adecuándolas para su procesamiento posterior.
+   Converts the original 16-bit images to 8-bit, making them suitable for further processing.
     
   - **Notebook 2: Renombrado de Imágenes**  
-    Renombra las imágenes ubicadas en los directorios de "20221124 SARGA 8 bits", ajustando sus nombres para que sigan el formato estándar requerido.
+    Renames images located in the "20221124 SARGA 8 bits" directories, adjusting their names to follow the required standard format.
     
   - **Notebook 3: Extracción de Subimágenes**  
-    Extrae secciones (subimágenes) de tamaño fijo de las imágenes preprocesadas, facilitando el análisis detallado de regiones específicas en áreas defectuosas y no defectuosas.
+    Extracts fixed-size sections (sub-images) from preprocessed images, facilitating detailed analysis of specific regions in both defective and non-defective areas.
   
 - **README.md**  
-  Este archivo que describe el repositorio.
+  This file describes the repository.
 
-## Uso
+## Use
 
-1. **Clonar el repositorio**:
+1. **Cloner the repository**:
    ```bash
    git clone https://github.com/gicap-ubu/DECeNT-preprocessing.git
    cd DECeNT-preprocessing
 
-2. **Instalar dependencias**:
+2. **Install dependencies**:
    
-   Los paquetes de Python utilizados son:
+   The required Python packages are:
    
    * opencv-python
    * matplotlib
@@ -39,3 +39,4 @@ Este repositorio forma parte del proyecto **Deep Iearning for automatic tExtile 
    * imageio
      
 ## Dataset
+  The dataset can be downloaded from this link: http://hdl.handle.net/10259/9965 
