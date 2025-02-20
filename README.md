@@ -17,10 +17,10 @@ This repository is part of the Deep Learning for automatic tExtile iNspection (D
     Extracts fixed-size sections (sub-images) from preprocessed images, facilitating detailed analysis of specific regions in both defective and non-defective areas.
 
   - **Notebook 4: move_cases.ipynb**  
-    The code moves files from a source directory (search_folder) to a subfolder named 'cases' within the same directory. For each file listed in the patch_name column of the CSV file, it checks if the file exists in the source directory.
+    Moves files from a source directory (search_folder) to a subfolder named 'cases' within the same directory. For each file listed in the patch_name column of the CSV file, it checks if the file exists in the source directory.
 
   - **Notebook 5: Generar CSV a partir de carpetas controls y cases.ipynb**  
-    Generate a CSV file from the files contained in the 'controls' and 'cases' folders
+    Generates a CSV file from the files contained in the 'controls' and 'cases' folders.
   
 - **README.md**  
   This file describes the repository.
