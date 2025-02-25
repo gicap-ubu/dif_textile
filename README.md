@@ -7,7 +7,7 @@ This repository is part of the Deep Learning for automatic tExtile iNspection (D
 - **notebooks/**  
   Contains Jupyter notebooks with the following steps:
   
-  - **Notebook 1: Conversiion directa 8bits.ipynb**  
+  - **Notebook 1: Conversion directa 8bits.ipynb**  
    Converts the original 16-bit images to 8-bit, making them suitable for further processing.
     
   - **Notebook 2: Renombrar imagenes.ipynb**  
