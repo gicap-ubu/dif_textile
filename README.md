@@ -49,3 +49,6 @@ This repository is part of the Deep Learning for automatic tExtile iNspection (D
      
 ## Dataset
   The dataset can be downloaded from this link: http://hdl.handle.net/10259/9965 
+
+## Article
+  https://doi.org/10.1016/j.dib.2025.111451 
